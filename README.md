@@ -17,11 +17,11 @@ Exemplo de Interação
 Digite sua escolha (1-5): 1
 
 --- Resultado da Comparação ---
-Comparando Sao Paulo vs Rio de Janeiro
+Comparando Florianópolis vs Rio Grande do Sul
 Atributo selecionado: População
-Sao Paulo: 12396372 habitantes
-Rio de Janeiro: 6747815 habitantes
+Florianópolis: 12396372 habitantes
+Rio Grande do Sul: 6747815 habitantes
 
-Sao Paulo vence com maior população!
+Florianópolis vence com maior população!
 
 --- Fim da Comparação ---
